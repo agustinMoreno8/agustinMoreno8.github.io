@@ -1,0 +1,21 @@
+/* body {
+    margin: 0;
+  }
+
+  video {
+    position: fixed;
+    left: 0;
+    top: 0;
+    height:80%;
+    z-index: -1;
+  } */
+  
+body{
+  background-color: black;
+}
+iframe{
+  width: 95.6em;
+  height: 45em;
+  margin:auto
+/*   padding: 2px 2px 2px 2px; */
+}

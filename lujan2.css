@@ -1,0 +1,74 @@
+/* a { color: yellow; font-size: 77px; text-shadow: 7px 7px 5px blue; text-decoration: none;} */
+body{ 
+      background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwqL_YWNPTZQlE-ujdk83Twds8rw8d3y4PmA&usqp=CAU"); 
+      background-repeat: no-repeat ;
+      background-size: cover ;
+      background-attachment: fixed ;
+      background-size: 100% 100%;
+      
+/*       backdrop-filter: blur(10px);
+      height:100vh;
+      margin:0;
+      padding;0; */
+    }
+/* div{
+    color: #fff;
+text-align: center;
+width: 80%;
+padding; 5rem 7rem;
+} */
+button{
+    font-family: 'Comic Sans MS', 'Arial', sans-serif;
+}
+ .boton__cobarde{
+    background-color: #FBAED2;
+    display: block;
+    padding: 2em 4.5em;
+    box-sizing: border-box;
+    text-align: center;/*con esto centramos el texto*/
+    margin:0em 10em 3.5em -1em;
+    border: 0.25em solid black;
+    border-radius: 15px;
+    font-size: 15px;
+}
+.boton__rs{
+    background-color: #00BFFF;
+    display: block;
+    padding: 2.5em 5.5em;
+    box-sizing: border-box;
+    text-align: center;/*con esto centramos el texto*/
+    margin:0em -27em 3.5em -4em;
+    border: 0.25em solid black;
+    border-radius: 15px;
+    font-size: 15px;
+}
+.boton__hda{
+    background-color: #98FB98;
+    display: block;
+    padding: 3em 7em;
+    box-sizing: border-box;
+    text-align: center;/*con esto centramos el texto*/
+    margin:0em -25em 3em -6em;
+    border: 0.25em solid black;
+    border-radius: 15px;
+    font-size: 15px;
+}
+.boton{
+    margin:10em 42em;
+}
+.boton__cobarde:hover{
+    background-color: #F884B4;
+    box-shadow: 10px 10px 10px 2px #D986B3;
+    transform: rotate(-4deg);
+
+}
+.boton__rs:hover{
+    background-color: #0080FF;
+    box-shadow: 10px 10px 10px 1px #0077B3;
+    transform: rotate(-4deg);
+}
+.boton__hda:hover{
+    background-color: #79C279;
+    box-shadow: 10px 10px 10px 5px #77A877;
+    transform: rotate(-4deg);
+}
